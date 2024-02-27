@@ -1,11 +1,11 @@
-> ### Hello World,
+### Hello World,
 I'm Boutzi, ex Graphic Designer and currently Junior Developper. <!-- I'm the founder of Arkaans since 2014, a solution for gamers. -->
 
-> ### Contributions,
+### Contributions,
 - [Arkaans Copilot](https://github.com/Boutzi/arkaans_copilot) *(Discord bot to manage voice channels)*
 - [Awesome Color Picker](https://github.com/Boutzi/awsome-picker) *(Pretty and practical color picker for your web projects)*
 
-> ### Skills,
+### Skills,
 <ins>**Web**</ins> : HTML, CSS, JavaScript  
 <ins>**Software**</ins> : .Net  
 <ins>**Design**</ins> : UI, Print, Web  
