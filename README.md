@@ -2,8 +2,8 @@
 I'm Boutzi, a former graphic designer transitioning into a junior developer. <!-- I'm the founder of Arkaans since 2014, a solution for gamers. -->
 
 ### Contributions
-- [Arkaans Copilot](https://github.com/Boutzi/arkaans_copilot) *(Discord bot to manage voice channels)*
-- [Awesome Color Picker](https://github.com/Boutzi/awsome-picker) *(Pretty and practical color picker for your web projects)*
+- [Arkaans Copilot](https://github.com/Boutzi/arkaans_copilot) *(A Discord bot designed to streamline voice channel management)*
+- [Awesome Color Picker](https://github.com/Boutzi/awsome-picker) *(A visually appealing and practical color picker crafted specifically for web projects.)*
 
 ### Skills  
 | **Web**   | **Software**   | **Design**           | **Others** |
