@@ -1,5 +1,5 @@
 ### Hello World,
-I'm Boutzi, ex Graphic Designer and currently Junior Developper. <!-- I'm the founder of Arkaans since 2014, a solution for gamers. -->
+I'm Boutzi, ex graphic designer and currently junior developper. <!-- I'm the founder of Arkaans since 2014, a solution for gamers. -->
 
 ### Contributions
 - [Arkaans Copilot](https://github.com/Boutzi/arkaans_copilot) *(Discord bot to manage voice channels)*
