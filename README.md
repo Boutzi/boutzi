@@ -5,7 +5,7 @@ I'm Boutzi, ex Graphic Designer and currently Junior Developper. <!-- I'm the fo
 - [Arkaans Copilot](https://github.com/Boutzi/arkaans_copilot) *(Discord bot to manage voice channels)*
 - [Awesome Color Picker](https://github.com/Boutzi/awsome-picker) *(Pretty and practical color picker for your web projects)*
 
-### Skills
+### Skills  
 **Web**  
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"
       alt="html"
@@ -53,13 +53,13 @@ I'm Boutzi, ex Graphic Designer and currently Junior Developper. <!-- I'm the fo
       title="Git"
       width="40"
       height="40"/> 
-      <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"
-      alt="npm"
-      width="40"
-      height="40"/> -->
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Mongodb-icon.svg"
       alt="mongo"
       title="MongoDB"
+      width="40"
+      height="40"/> 
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="Postman"
       width="40"
       height="40"/>  
 
