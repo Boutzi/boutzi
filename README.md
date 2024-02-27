@@ -6,17 +6,19 @@ I'm Boutzi, ex Graphic Designer and currently Junior Developper. <!-- I'm the fo
 - [Awesome Color Picker](https://github.com/Boutzi/awsome-picker) *(Pretty and practical color picker for your web projects)*
 
 ### Skills,
-**Web**
+**Web**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
       width="40"
       height="40"/>  
-**Software** 
+_________________
+**Software**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       alt="csharp"
       width="40"
       height="40"/>  
-**Design**
+_________________
+**Design**  
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"
       alt="photoshop"
       width="40"
