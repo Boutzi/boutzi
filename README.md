@@ -6,7 +6,7 @@ I'm Boutzi, ex Graphic Designer and currently Junior Developper. <!-- I'm the fo
 - [Awesome Color Picker](https://github.com/Boutzi/awsome-picker) *(Pretty and practical color picker for your web projects)*
 
 ### Skills,
-<ins>**Web**</ins> : HTML, CSS, JavaScript  
+<ins>**Web**</ins> : JavaScript  
 <ins>**Software**</ins> : .Net  
 <ins>**Design**</ins> : UI, Print, Web  
 
