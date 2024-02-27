@@ -7,6 +7,14 @@ I'm Boutzi, ex Graphic Designer and currently Junior Developper. <!-- I'm the fo
 
 ### Skills,
 **Web**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
+      alt="html"
+      width="40"
+      height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
+      alt="css"
+      width="40"
+      height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
       width="40"
