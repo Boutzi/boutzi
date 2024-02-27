@@ -59,7 +59,8 @@ I'm Boutzi, ex Graphic Designer and currently Junior Developper. <!-- I'm the fo
       width="40"
       height="40"/> 
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="Postman"
+      alt="postman"
+      title="Postman"
       width="40"
       height="40"/>  
 
