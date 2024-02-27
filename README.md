@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### Contributions
+- [Arkaans Copilot](https://github.com/Boutzi/arkaans_copilot) - (Discord bot to manage voice channels)
+- [Awesome Color Picker](https://github.com/Boutzi/awsome-picker) - (Pretty and practical color picker for your web projects)
+
 <!--
 **Boutzi/boutzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
