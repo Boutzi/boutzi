@@ -11,13 +11,13 @@ I'm Boutzi, ex Graphic Designer and currently Junior Developper. <!-- I'm the fo
       alt="javascript"
       width="40"
       height="40"/>  
-_________________
+  
 **Software**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       alt="csharp"
       width="40"
       height="40"/>  
-_________________
+        
 **Design**  
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"
       alt="photoshop"
