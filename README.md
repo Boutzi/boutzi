@@ -19,10 +19,6 @@ I'm Boutzi, ex Graphic Designer and currently Junior Developper. <!-- I'm the fo
       alt="javascript"
       width="40"
       height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"
-      alt="node"
-      width="40"
-      height="40"/>  
   
 **Software**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
@@ -36,10 +32,21 @@ I'm Boutzi, ex Graphic Designer and currently Junior Developper. <!-- I'm the fo
       width="40"
       height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"
-      alt="illustrator"
+      alt="illustrator"  
       width="40"
       height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"
       alt="figma"
       width="40"
       height="40"/>
+
+**Others**  
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"
+      alt="git"
+      width="40"
+      height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Mongodb-icon.svg"
+      alt="mongo"
+      width="40"
+      height="40"/>  
+
