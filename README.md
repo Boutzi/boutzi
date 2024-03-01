@@ -3,8 +3,8 @@ I'm Boutzi, a former graphic designer transitioning into a junior developer. <!-
 
 ### Contributions
 - [Arkaans Copilot](https://github.com/Boutzi/arkaans_copilot) *(A Discord bot designed to streamline voice channel management)* - *Released on 02/05/2023*
-- [Awesome Color Picker](https://github.com/Boutzi/awsome-picker) *(A visually appealing and practical color picker crafted specifically for web projects.)* - *Released on 26/02/2023*
-- [Pomodoro App (Windows)](https://github.com/Boutzi/pomodoro/) *(Boost productivity with a Pomodoro timer built for Windows.)* - *Released on 01/03/2023*
+- [Awesome Color Picker](https://github.com/Boutzi/awsome-picker) *(A visually appealing and practical color picker crafted specifically for web projects.)* - *Released on 26/02/2024*
+- [Pomodoro App (Windows)](https://github.com/Boutzi/pomodoro/) *(Boost productivity with a Pomodoro timer built for Windows.)* - *Released on 01/03/2024*
 
 ### Skills  
 | **Web**   | **Software**   | **Design**           | **Others** |
