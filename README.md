@@ -13,3 +13,6 @@ I'm Boutzi, a former graphic designer transitioning into a junior developer. <!-
 
 #### I'm interested in
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" title="Pyhton" width="32" height="32"/> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" title="TypeScript" width="32" height="32"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" title="React" width="32" height="32"/> <img src="https://www.svgrepo.com/show/452110/swift.svg" alt="swift" title="Swift" width="32" height="32"/>
+
+#### My sworn enemy 
+<img src="https://www.svgrepo.com/show/452088/php.svg" alt="php" title="Php" width="32" height="32"/>
