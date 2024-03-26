@@ -28,7 +28,7 @@ I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior devel
     <td rowspan="2">
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" title="Adobe Photoshop"  width="32" height="32"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" title="Adobe Illustrator" width="32" height="32"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" alt="InDesign" title="Adobe InDesign" width="32" height="32"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" alt="InDesign" title="Adobe InDesign" width="32" height="32"/><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" title="Figma" width="32" height="32"/>
     </td>
     <td>
