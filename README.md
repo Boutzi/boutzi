@@ -38,11 +38,11 @@ I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior devel
       <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" title="Redux" width="32" height="32"/>
     </td>
     <td rowspan="2">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" title="Amazon Web Services" width="32" height="32"/>
       <img src="https://www.svgrepo.com/show/373992/powershell.svg" alt="powershell" title="PowerShell" width="32" height="32"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" title="Git" width="32" height="32"/>
       <img src="https://icon.icepanel.io/Technology/svg/Heroku.svg" alt="heroku" title="Heroku" width="32" height="32"/>
       <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="node" title="Node.js" width="32" height="32"/><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" title="Microsoft Azure" width="32" height="32"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Mongodb-icon.svg" alt="mongo" title="MongoDB" width="32" height="32"/>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="32" height="32"/>
     </td>
@@ -66,7 +66,6 @@ I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior devel
       <img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" alt="typescript" title="TypeScript" width="32" height="32"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" title="Pyhton" width="32" height="32"/>
       <img src="https://icon.icepanel.io/Technology/svg/Swift.svg" alt="swift" title="Swift" width="32" height="32"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" title="Amazon Web Services" width="32" height="32"/>
       <img src="https://icon.icepanel.io/Technology/svg/Java.svg" alt="java" title="Java" width="32" height="32"/>
     </td>
   </tr>
