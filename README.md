@@ -37,6 +37,7 @@ I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior devel
       <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt="wordpress" title="Wordpress" width="32" height="32"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" title="React" width="32" height="32"/>
       <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" title="Redux" width="32" height="32"/>
+      <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next.js" title="Next.js" width="32" height=32"/>
     </td>
     <td rowspan="2">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" title="Amazon Web Services" width="32" height="32"/>
