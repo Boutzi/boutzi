@@ -24,6 +24,7 @@ I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior devel
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css" title="CSS3" width="32" height="32"/>
       <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" title="Sass" width="32" height="32"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="32" height="32"/>
+      <img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" alt="typescript" title="TypeScript" width="32" height="32"/>
     </td>
     <td rowspan="2">
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" title="Adobe Photoshop"  width="32" height="32"/>
@@ -63,7 +64,6 @@ I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior devel
 <table>
   <tr align="center">
     <td>
-      <img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" alt="typescript" title="TypeScript" width="32" height="32"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" title="Pyhton" width="32" height="32"/>
       <img src="https://icon.icepanel.io/Technology/svg/Swift.svg" alt="swift" title="Swift" width="32" height="32"/>
       <img src="https://icon.icepanel.io/Technology/svg/Java.svg" alt="java" title="Java" width="32" height="32"/>
