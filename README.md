@@ -75,7 +75,7 @@ I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior devel
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png?20240131042527" alt="r" title="R" width="32" height="32"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/135px-Pandas_mark.svg.png" alt="pandas" title="Pandas" width="32" height="32"/>
       <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numPy" title="NumPy" width="32" height="32"/>
-      <img src="https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-2.svg" alt="docker" title="Docker" width="32" height="32"/>
+      <img src="https://www.svgrepo.com/show/349342/docker.svg" alt="docker" title="Docker" width="32" height="32"/>
       <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" title="SQL" width="32" height="32"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/744px-PyTorch_logo_icon.svg.png?20200318225611" alt="pyTorch" title="PyTorch" width="32" height="32"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" title="Scikit-Learn" width="32" height="32"/>
