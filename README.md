@@ -71,6 +71,17 @@ I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior devel
       <img src="https://icon.icepanel.io/Technology/svg/Java.svg" alt="java" title="Java" width="32" height="32"/>
       <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" title="Django" width="32" height="32"/>
       <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" title="Flask" width="32" height="32"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/173px-Tensorflow_logo.svg.png?20170429160244" alt="tensorFlow" title="TensorFlow" width="32" height="32"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png?20240131042527" alt="r" title="R" width="32" height="32"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/135px-Pandas_mark.svg.png" alt="pandas" title="Pandas" width="32" height="32"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numPy" title="NumPy" width="32" height="32"/>
+      <img src="https://www.svgrepo.com/show/349342/docker.svg" alt="docker" title="Docker" width="32" height="32"/>
+      <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" title="SQL" width="32" height="32"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/744px-PyTorch_logo_icon.svg.png?20200318225611" alt="pyTorch" title="PyTorch" width="32" height="32"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" title="Scikit-Learn" width="32" height="32"/>
+      <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="Keras" title="Keras" width="32" height="32"/>
+      <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib" title="Matplotlib" width="32" height="32"/>
+      <img src="https://www.svgrepo.com/show/373718/jupyter.svg" alt="jupyter" title="Jupyter" width="32" height="32"/>
     </td>
   </tr>
 </table>
