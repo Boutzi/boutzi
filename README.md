@@ -59,6 +59,7 @@ I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior devel
     <td>
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="dotnet" title=".Net" width="32" height="32"/>
       <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="selenium" title="Selenium" width="32" height="32"/>
+      
     </td>
   </tr>
 </table>
@@ -69,6 +70,9 @@ I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior devel
     <td>
       <img src="https://icon.icepanel.io/Technology/svg/Swift.svg" alt="swift" title="Swift" width="32" height="32"/>
       <img src="https://icon.icepanel.io/Technology/svg/Java.svg" alt="java" title="Java" width="32" height="32"/>
+      <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" title="Django" width="32" height="32"/>
+      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" title="Flask" width="32" height="32"/>
+      
     </td>
   </tr>
 </table>
