@@ -48,6 +48,7 @@ I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior devel
       <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="node" title="Node.js" width="32" height="32"/><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Mongodb-icon.svg" alt="mongo" title="MongoDB" width="32" height="32"/>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="32" height="32"/>
+      <img src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" alt="Anaconda" title="Anaconda" width="32" height="32"/>
     </td>
   </tr>
   <tr align="center">
