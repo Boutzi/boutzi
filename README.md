@@ -54,7 +54,7 @@ I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior devel
     <td>Back-End</td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" title="C# .Net" width="32" height="32"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" title="Pyhton" width="32" height="32"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" title="Python" width="32" height="32"/>
     </td>
     <td>
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="dotnet" title=".Net" width="32" height="32"/>
