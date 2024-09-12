@@ -83,6 +83,7 @@ I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior devel
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" title="Scikit-Learn" width="32" height="32"/>
       <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="Keras" title="Keras" width="32" height="32"/>
       <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib" title="Matplotlib" width="32" height="32"/>
+      <img src="https://www.svgrepo.com/show/376331/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="32" height="32"/>
     </td>
   </tr>
 </table>
