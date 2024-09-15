@@ -61,6 +61,7 @@ I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior devel
     <td>
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="dotnet" title=".Net" width="32" height="32"/>
       <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="selenium" title="Selenium" width="32" height="32"/>
+      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" title="Flask" width="32" height="32"/>
     </td>
   </tr>
 </table>
@@ -72,7 +73,6 @@ I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior devel
       <img src="https://icon.icepanel.io/Technology/svg/Swift.svg" alt="swift" title="Swift" width="32" height="32"/>
       <img src="https://icon.icepanel.io/Technology/svg/Java.svg" alt="java" title="Java" width="32" height="32"/>
       <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" title="Django" width="32" height="32"/>
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" title="Flask" width="32" height="32"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/173px-Tensorflow_logo.svg.png?20170429160244" alt="tensorFlow" title="TensorFlow" width="32" height="32"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png?20240131042527" alt="r" title="R" width="32" height="32"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/135px-Pandas_mark.svg.png" alt="pandas" title="Pandas" width="32" height="32"/>
