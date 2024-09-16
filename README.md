@@ -6,7 +6,7 @@ I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior devel
 - [Awesome Color Picker (Alpha)](https://github.com/Boutzi/awsome-picker) *(A visually appealing and practical color picker crafted specifically for web projects.)* - *Released on 26/02/2024*
 - [Pomodoro App](https://github.com/Boutzi/pomodoro/) *(Boost productivity with a Pomodoro timer built for Windows.)* - *Released on 01/03/2024*
 
-#### <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" title="Pull Shark" width="28" height="28"/><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="Yolo" title="Yolo" width="28" height="28"/> Get **Yolo** and **Pull Shark** (1/2) GitHub badges with this repo :
+#### <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="Yolo" title="Yolo" width="32" height="32"/> <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" title="Pull Shark" width="32" height="32"/> Get **Yolo** and **Pull Shark** (1/2) GitHub badges with this repo :
 - [CLI Calculator](https://github.com/Boutzi/cli-calculator) *(Fork and pull request your own version of a basic CLI calculator: in your preferred language)* - *Released on 26/03/2024*
 
 
