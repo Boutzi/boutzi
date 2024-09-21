@@ -62,7 +62,6 @@ I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior devel
     </td>
     <td>
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="dotnet" title=".Net" width="32" height="32"/>
-      <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="selenium" title="Selenium" width="32" height="32"/>
       <img src="https://flask.palletsprojects.com/en/3.0.x/_static/shortcut-icon.png" alt="flask" title="Flask" width="32" height="32"/>
     </td>
   </tr>
@@ -72,6 +71,9 @@ I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior devel
 <table>
   <tr align="center">
     <td>
+      <img src="https://www.svgrepo.com/show/342328/unreal-engine.svg" alt="Unreal Engine" title="Unreal Engine" width="32" height="32"/>
+      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unity-game-engine-icon.png" alt="Unity" title="Unity" width="32" height="32"/>
+      <img src="https://www.svgrepo.com/show/353488/blender.svg" alt="Blender" title="Blender" width="32" height="32"/>
       <img src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" alt="Go" title="Go" width="32" height="32"/>
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="Firebase" width="32" height="32"/>
       <img src="https://icon.icepanel.io/Technology/svg/Swift.svg" alt="swift" title="Swift" width="32" height="32"/>
@@ -87,10 +89,8 @@ I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior devel
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" title="Scikit-Learn" width="32" height="32"/>
       <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="Keras" title="Keras" width="32" height="32"/>
       <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib" title="Matplotlib" width="32" height="32"/>
+      <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="selenium" title="Selenium" width="32" height="32"/>
       <img src="https://www.svgrepo.com/show/376331/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="32" height="32"/>
-      <img src="https://www.svgrepo.com/show/342328/unreal-engine.svg" alt="Unreal Engine" title="Unreal Engine" width="32" height="32"/>
-      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unity-game-engine-icon.png" alt="Unity" title="Unity" width="32" height="32"/>
-      <img src="https://www.svgrepo.com/show/353488/blender.svg" alt="Blender" title="Blender" width="32" height="32"/>
     </td>
   </tr>
 </table>
