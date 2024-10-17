@@ -76,6 +76,7 @@ Check out my [portfolio](https://joe.arkaans.com)!
       <img src="https://www.svgrepo.com/show/376353/terraform.svg" alt="Terraform" title="Terraform" width="32" height="32"/>
       <img src="https://www.svgrepo.com/show/349342/docker.svg" alt="docker" title="Docker" width="32" height="32"/>
       <img src="https://www.svgrepo.com/show/376331/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="32" height="32"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deno_2021.svg/768px-Deno_2021.svg.png" alt="Deno" title="Deno" width="32" height="32"/>
     </td>
   </tr>
 </table>
