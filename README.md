@@ -53,8 +53,6 @@ Check out my [portfolio](https://joe.arkaans.com)!
       <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="node" title="Node.js" width="32" height="32"/><br>
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Mongodb-icon.svg" alt="mongo" title="MongoDB" width="32" height="32"/>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="32" height="32"/>
-      <img src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" alt="Anaconda" title="Anaconda" width="32" height="32"/>
-      <img src="https://www.svgrepo.com/show/373718/jupyter.svg" alt="jupyter" title="Jupyter" width="32" height="32"/>
     </td>
   </tr>
   <tr align="center">
@@ -103,6 +101,7 @@ Check out my [portfolio](https://joe.arkaans.com)!
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" title="Scikit-Learn" width="32" height="32"/>
       <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="Keras" title="Keras" width="32" height="32"/>
       <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib" title="Matplotlib" width="32" height="32"/>
+      <img src="https://www.svgrepo.com/show/373718/jupyter.svg" alt="jupyter" title="Jupyter" width="32" height="32"/>
     </td>
   </tr>
 </table>
