@@ -66,11 +66,23 @@ Check out my [portfolio](https://joe.arkaans.com)!
     <td>
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="dotnet" title=".Net" width="32" height="32"/>
       <img src="https://flask.palletsprojects.com/en/3.0.x/_static/shortcut-icon.png" alt="flask" title="Flask" width="32" height="32"/>
+      <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="selenium" title="Selenium" width="32" height="32"/>
     </td>
   </tr>
 </table>
 
-#### I'm interested in
+#### I'm very interested in
+<table>
+  <tr align="center">
+    <td>
+      <img src="https://www.svgrepo.com/show/376353/terraform.svg" alt="Terraform" title="Terraform" width="32" height="32"/>
+      <img src="https://www.svgrepo.com/show/349342/docker.svg" alt="docker" title="Docker" width="32" height="32"/>
+      <img src="https://www.svgrepo.com/show/376331/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="32" height="32"/>
+    </td>
+  </tr>
+</table>
+
+#### I'm also interested in
 <table>
   <tr align="center">
     <td>
@@ -86,14 +98,11 @@ Check out my [portfolio](https://joe.arkaans.com)!
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png?20240131042527" alt="r" title="R" width="32" height="32"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/135px-Pandas_mark.svg.png" alt="pandas" title="Pandas" width="32" height="32"/>
       <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numPy" title="NumPy" width="32" height="32"/>
-      <img src="https://www.svgrepo.com/show/349342/docker.svg" alt="docker" title="Docker" width="32" height="32"/>
       <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" title="SQL" width="32" height="32"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/744px-PyTorch_logo_icon.svg.png?20200318225611" alt="pyTorch" title="PyTorch" width="32" height="32"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" title="Scikit-Learn" width="32" height="32"/>
       <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="Keras" title="Keras" width="32" height="32"/>
       <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib" title="Matplotlib" width="32" height="32"/>
-      <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="selenium" title="Selenium" width="32" height="32"/>
-      <img src="https://www.svgrepo.com/show/376331/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="32" height="32"/>
     </td>
   </tr>
 </table>
