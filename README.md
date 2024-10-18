@@ -21,100 +21,56 @@ Check out my [portfolio](https://joe.arkaans.com)!
 - [CLI Calculator](https://github.com/Boutzi/cli-calculator) *(Fork and pull request your own version of a basic CLI calculator: in your preferred language)* - *Released on 26/03/2024*
 
 
-### Skills  
-<table>
-  <tr align="center">
-    <td></td>
-    <td>Languages</td>
-    <td>Design</td>
-    <td>Frameworks / Libs</td>
-    <td>Tools</td>
-  </tr>
-  <tr align="center">
-    <td>Front-End</td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="html" title="HTML5" width="32" height="32"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css" title="CSS3" width="32" height="32"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" title="Sass" width="32" height="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="32" height="32"/>
-      <img src="https://insideware.fr/img/dotnet/winui.svg" alt="xaml" title="XAML" width="32" height="32"/>
-      <img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" alt="typescript" title="TypeScript" width="32" height="32"/>
-    </td>
-    <td rowspan="2">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" title="Adobe Photoshop"  width="32" height="32"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" title="Adobe Illustrator" width="32" height="32"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg" alt="InDesign" title="Adobe InDesign" width="32" height="32"/><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" title="Figma" width="32" height="32"/>
-    </td>
-    <td>
-      <img src="https://icon.icepanel.io/Technology/svg/Discord.js.svg" alt="discord_js" title="Discord JS" width="32" height="32"/>
-      <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt="wordpress" title="Wordpress" width="32" height="32"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" title="React" width="32" height="32"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" title="Redux" width="32" height="32"/>
-      <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next.js" title="Next.js" width="32" height=32"/>
-      <img src="https://seeklogo.com/images/S/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png?v=638421451470000000" alt="shadcn" title="shadcn" width="32" height=32"/>
-    </td>
-    <td rowspan="2">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" title="Amazon Web Services" width="32" height="32"/>
-      <img src="https://www.svgrepo.com/show/373992/powershell.svg" alt="powershell" title="PowerShell" width="32" height="32"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" title="Git" width="32" height="32"/>
-      <img src="https://icon.icepanel.io/Technology/svg/Heroku.svg" alt="heroku" title="Heroku" width="32" height="32"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="node" title="Node.js" width="32" height="32"/><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Mongodb-icon.svg" alt="mongo" title="MongoDB" width="32" height="32"/>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" width="32" height="32"/>
-    </td>
-  </tr>
-  <tr align="center">
-    <td>Back-End</td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" title="C# .Net" width="32" height="32"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" title="Python" width="32" height="32"/>
-    </td>
-    <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="dotnet" title=".Net" width="32" height="32"/>
-      <img src="https://flask.palletsprojects.com/en/3.0.x/_static/shortcut-icon.png" alt="flask" title="Flask" width="32" height="32"/>
-      <img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="selenium" title="Selenium" width="32" height="32"/>
-    </td>
-  </tr>
-</table>
+### Skills 
+#### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233671F3.svg?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%235C2D91.svg?style=flat-square&logo=csharp&logoColor=white)
+
+#### Framworks/libs
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593D88.svg?style=flat-square&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%2300B8D9.svg?style=flat-square&logo=flask&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%43B02A.svg?style=flat-square&logo=selenium&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-%235C2D91.svg?style=flat-square&logo=.net&logoColor=white)
+
+
+#### Cloud
+
+![Amazon Web Services Badge](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=flat)
 
 #### I'm very interested in
-<table>
-  <tr align="center">
-    <td>
-      <img src="https://www.svgrepo.com/show/376353/terraform.svg" alt="Terraform" title="Terraform" width="32" height="32"/>
-      <img src="https://www.svgrepo.com/show/349342/docker.svg" alt="docker" title="Docker" width="32" height="32"/>
-      <img src="https://www.svgrepo.com/show/376331/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="32" height="32"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deno_2021.svg/768px-Deno_2021.svg.png" alt="Deno" title="Deno" width="32" height="32"/>
-    </td>
-  </tr>
-</table>
+
+![Terraform](https://img.shields.io/badge/Terraform-%234D424D.svg?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%3336C3F3.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-%2300B8D9.svg?style=flat-square&logo=deno&logoColor=white)
 
 #### I'm also interested in
-<table>
-  <tr align="center">
-    <td>
-      <img src="https://www.svgrepo.com/show/342328/unreal-engine.svg" alt="Unreal Engine" title="Unreal Engine" width="32" height="32"/>
-      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unity-game-engine-icon.png" alt="Unity" title="Unity" width="32" height="32"/>
-      <img src="https://www.svgrepo.com/show/353488/blender.svg" alt="Blender" title="Blender" width="32" height="32"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" alt="Go" title="Go" width="32" height="32"/>
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="Firebase" width="32" height="32"/>
-      <img src="https://icon.icepanel.io/Technology/svg/Swift.svg" alt="swift" title="Swift" width="32" height="32"/>
-      <img src="https://icon.icepanel.io/Technology/svg/Java.svg" alt="java" title="Java" width="32" height="32"/>
-      <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" title="Django" width="32" height="32"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/173px-Tensorflow_logo.svg.png?20170429160244" alt="tensorFlow" title="TensorFlow" width="32" height="32"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1086px-R_logo.svg.png?20240131042527" alt="r" title="R" width="32" height="32"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/135px-Pandas_mark.svg.png" alt="pandas" title="Pandas" width="32" height="32"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numPy" title="NumPy" width="32" height="32"/>
-      <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" title="SQL" width="32" height="32"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/744px-PyTorch_logo_icon.svg.png?20200318225611" alt="pyTorch" title="PyTorch" width="32" height="32"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png" alt="Scikit-Learn" title="Scikit-Learn" width="32" height="32"/>
-      <img src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="Keras" title="Keras" width="32" height="32"/>
-      <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib" title="Matplotlib" width="32" height="32"/>
-      <img src="https://www.svgrepo.com/show/373718/jupyter.svg" alt="jupyter" title="Jupyter" width="32" height="32"/>
-    </td>
-  </tr>
-</table>
+
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%232D82FF.svg?style=flat-square&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%232D82FF.svg?style=flat-square&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=flat-square&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23F89820.svg?style=flat-square&logo=java&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F20.svg?style=flat-square&logo=tensorflow&logoColor=white)
+![R](https://img.shields.io/badge/R-%23004B87.svg?style=flat-square&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%230A63C1.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23D74F3E.svg?style=flat-square&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234F54F1.svg?style=flat-square&logo=mysql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%230F75B3.svg?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23007A99.svg?style=flat-square&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23DA5B16.svg?style=flat-square&logo=jupyter&logoColor=white)
+
 
 #### My sworn enemy 
-<img src="https://www.svgrepo.com/show/452088/php.svg" alt="php" title="Php" width="32" height="32"/>
+![PHP](https://img.shields.io/badge/PHP-%777BB4.svg?style=flat-square&logo=php&logoColor=white)
