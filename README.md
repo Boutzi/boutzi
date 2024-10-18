@@ -1,3 +1,5 @@
+[![Looking for an apprenticeship as a developer around Bordeaux, feel free to reach out to me!](https://joe.arkaans.com/en/contact)
+
 ### ```> Hello World!```
 I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior developer. <!-- I'm the founder of Arkaans since 2014, a solution for gamers. -->
 
