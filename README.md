@@ -13,11 +13,11 @@ I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior devel
 Check out my [portfolio](https://joe.arkaans.com)!
 
 ### Contributions
-- [Arkaans Copilot](https://github.com/Arkaans/arkaans-copilot) *(A Discord bot designed to streamline voice channel management)* - *Released on 02/05/2023*
-- [Pomodoro App](https://github.com/Boutzi/pomodoro/) *(Boost productivity with a Pomodoro timer built for Windows.)* - *Released on 01/03/2024*
+- [Arkaans Copilot](https://github.com/Arkaans/arkaans-copilot) is a Discord bot designed to streamline voice channel management. - *Released on 02/05/2023*
+- [Pomodoro App](https://github.com/Boutzi/pomodoro/) helps you to boost your productivity with a Pomodoro timer built for Windows. - *Released on 01/03/2024*
 
 #### <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="Yolo" title="Yolo" width="32" height="32"/> <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" title="Pull Shark" width="32" height="32"/> Get **Yolo** and **Pull Shark** (1/2) GitHub badges with this repo :
-- [CLI Calculator](https://github.com/Boutzi/cli-calculator) *(Fork and pull request your own version of a basic CLI calculator: in your preferred language)* - *Released on 26/03/2024*
+- Fork and pull request this [CLI Calculator](https://github.com/Boutzi/cli-calculator) repo with your own version of a basic CLI calculator: in your preferred language.
 
 
 ### Skills 
