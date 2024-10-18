@@ -15,8 +15,6 @@ Check out my [portfolio](https://joe.arkaans.com)!
 ### Contributions
 - [Arkaans Copilot](https://github.com/Arkaans/arkaans-copilot) is a Discord bot designed to streamline voice channel management. - *Released on 02/05/2023*
 - [Pomodoro App](https://github.com/Boutzi/pomodoro/) helps you to boost your productivity with a Pomodoro timer built for Windows. - *Released on 01/03/2024*
-- Fork and pull request this [CLI Calculator](https://github.com/Boutzi/cli-calculator) repo with your own version of a basic CLI calculator (in your preferred language) to get GitHub badges.
-
 
 ### Skills 
 #### Languages
