@@ -1,8 +1,12 @@
 
 <div align="center">
   
-[![Looking for an apprenticeship](https://img.shields.io/badge/-Looking%20for%20an%20apprenticeship/job%20in%20web/software%20development!-orange?style=for-the-badge)](https://joe.arkaans.com/en/contact)
-[![Contact Me](https://img.shields.io/badge/-Contact%20me!-brightgreen?style=for-the-badge)](https://joe.arkaans.com/en/contact)
+<a href="https://joe.arkaans.com/en/contact" target="_blank">
+    <img src="https://img.shields.io/badge/-Looking%20for%20an%20apprenticeship/job%20in%20web/software%20development!-orange?style=for-the-badge" alt="Looking for an apprenticeship">
+</a>
+<a href="https://joe.arkaans.com/en/contact" target="_blank">
+    <img src="https://img.shields.io/badge/-Contact%20me!-brightgreen?style=for-the-badge" alt="Contact Me">
+</a>
 
 </div>
 
