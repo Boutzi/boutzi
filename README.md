@@ -12,11 +12,21 @@ I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior devel
 
 Check out my [portfolio](https://joe.arkaans.com)!
 
-### Contributions
+<div align="center">
+  
+## Contributions
+
+</div>
+
 - [Arkaans Copilot](https://github.com/Arkaans/arkaans-copilot) is a Discord bot designed to streamline voice channel management. - *Released on 02/05/2023*
 - [Pomodoro App](https://github.com/Boutzi/pomodoro/) helps you to boost your productivity with a Pomodoro timer built for Windows. - *Released on 01/03/2024*
+- 
+<div align="center">
+  
+## Skills 
 
-### Skills 
+</div>
+
 #### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
