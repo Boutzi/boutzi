@@ -8,7 +8,7 @@
 
 
 ### ```> Hello World!```
-I'm Joe, aka Boutzi, a former graphic designer transitioning into a junior developer. <!-- I'm the founder of Arkaans since 2014, a solution for gamers. -->
+I'm Joe, a former graphic designer transitioning into a junior developer. <!-- I'm the founder of Arkaans since 2014, a solution for gamers. -->
 
 Check out my [portfolio](https://joe.arkaans.com)!
 
