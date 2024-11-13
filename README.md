@@ -79,3 +79,8 @@ Check out my [portfolio](https://joe.arkaans.com)!
 
 #### My sworn enemy 
 ![PHP](https://img.shields.io/badge/PHP-%777BB4.svg?style=flat-square&logo=php&logoColor=white)
+
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boutzi&show_icons=true&theme=dracula)
