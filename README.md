@@ -83,7 +83,10 @@ Check out my [portfolio](https://joe.arkaans.com)!
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boutzi&show_icons=true&theme=dracula)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FabriceDevPro&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<div align="left" style="display:flex">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boutzi&show_icons=true&theme=dracula)
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FabriceDevPro&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+
 </div>
