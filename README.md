@@ -1,15 +1,6 @@
 
-<div align="center">
-  <p style="font-size: 2rem; font-weight: bold; color: #ff9800; margin-bottom: 8px;">
-    Looking for a job in web or software development!
-  </p>
-  <a href="https://joe.arkaans.com/en/contact" style="text-decoration: none; font-size: 18px; font-weight: bold; color: #fff; background-color: #4caf50; padding: 12px 24px; border-radius: 8px; display: inline-block;">
-    Contact Me
-  </a>
-</div>
-
 ### ```> Hello World!```
-I'm Joe aka "Boutzi". I'm a developer looking for a job in web or software development! Check out my [portfolio](https://joe.arkaans.com)!
+I'm Joe aka "Boutzi". I'm a developer looking for a job in web or software development! Check out my [portfolio](https://joe.arkaans.com)! 
 
 <div align="left">
   
