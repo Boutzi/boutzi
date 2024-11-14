@@ -9,9 +9,7 @@
 </div>
 
 ### ```> Hello World!```
-I'm Joe, a former graphic designer transitioning into a junior developer. <!-- I'm the founder of Arkaans since 2014, a solution for gamers. -->
-
-Check out my [portfolio](https://joe.arkaans.com)!
+I'm Joe aka "Boutzi". I'm a developer looking for a job in web or software development! Check out my [portfolio](https://joe.arkaans.com)!
 
 <div align="left">
   
