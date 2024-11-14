@@ -1,11 +1,12 @@
 
 <div align="center">
-
-[![Looking for a job](https://img.shields.io/badge/-Looking%20for%20a%20job%20in%20web%20or%20software%20development!-orange?style=for-the-badge)](https://joe.arkaans.com/en/contact)
-[![Contact Me](https://img.shields.io/badge/-Contact%20me!-brightgreen?style=for-the-badge)](https://joe.arkaans.com/en/contact)
-
+  <p style="font-size: 2rem; font-weight: bold; color: #ff9800; margin-bottom: 8px;">
+    Looking for a job in web or software development!
+  </p>
+  <a href="https://joe.arkaans.com/en/contact" style="text-decoration: none; font-size: 18px; font-weight: bold; color: #fff; background-color: #4caf50; padding: 12px 24px; border-radius: 8px; display: inline-block;">
+    Contact Me
+  </a>
 </div>
-
 
 ### ```> Hello World!```
 I'm Joe, a former graphic designer transitioning into a junior developer. <!-- I'm the founder of Arkaans since 2014, a solution for gamers. -->
