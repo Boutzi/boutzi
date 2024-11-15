@@ -10,6 +10,7 @@ I'm Joe aka "Boutzi". I'm a developer looking for a job in web or software devel
 
 - [Arkaans Copilot](https://github.com/Arkaans/arkaans-copilot) is a Discord bot designed to streamline voice channel management. - *Released on 02/05/2023*
 - [Pomodoro App](https://github.com/Boutzi/pomodoro/) helps you to boost your productivity with a Pomodoro timer built for Windows. - *Released on 01/03/2024*
+- [Code Lab FR](https://github.com/Boutzi/code-lab-fr) is a simple coding lab for French JavaScript and React students to improve their basic programming skills.
 
 <div align="left">
   
