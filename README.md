@@ -46,7 +46,7 @@ I'm Joe aka "Boutzi". I'm a developer looking for a job in web or software devel
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%3336C3F3.svg?style=flat-square&logo=kubernetes&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23F89820.svg?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300ADD8.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 #### I'm also interested in
