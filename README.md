@@ -45,16 +45,17 @@ I'm Joe aka "Boutzi". I'm a developer looking for a job in web or software devel
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%3336C3F3.svg?style=flat-square&logo=kubernetes&logoColor=white)
 ![Deno](https://img.shields.io/badge/Deno-%2300B8D9.svg?style=flat-square&logo=deno&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23F89820.svg?style=flat-square&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
 
 #### I'm also interested in
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%232D82FF.svg?style=flat-square&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%232D82FF.svg?style=flat-square&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=flat-square&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23F89820.svg?style=flat-square&logo=java&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F20.svg?style=flat-square&logo=tensorflow&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23004B87.svg?style=flat-square&logo=r&logoColor=white)
