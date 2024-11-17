@@ -47,7 +47,7 @@ I'm Joe aka "Boutzi". I'm a developer looking for a job in web or software devel
 ![Deno](https://img.shields.io/badge/Deno-%2300B8D9.svg?style=flat-square&logo=deno&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23F89820.svg?style=flat-square&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300ADD8.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 #### I'm also interested in
 
