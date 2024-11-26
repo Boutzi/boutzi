@@ -34,15 +34,14 @@ I'm Joe aka "Boutzi". I'm a developer looking for a job in web or software devel
 ![Selenium](https://img.shields.io/badge/Selenium-%43B02A.svg?style=flat-square&logo=selenium&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-%235C2D91.svg?style=flat-square&logo=.net&logoColor=white)
 
+#### DevOps & Cloud
 
-#### Cloud
-
-![Amazon Web Services Badge](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=flat)
+![Amazon Web Services Badge](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-%234D424D.svg?style=flat-square&logo=terraform&logoColor=white)
 
 #### I'm very interested in
 
 ![Deno](https://img.shields.io/badge/Deno-%2300B8D9.svg?style=flat-square&logo=deno&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%234D424D.svg?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%3336C3F3.svg?style=flat-square&logo=kubernetes&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
