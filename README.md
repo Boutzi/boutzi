@@ -87,8 +87,8 @@ I'm Joe. I'm a developer looking for a job in web or software development! Check
 ## 📈 GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Boutzi&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boutzi&show_icons=true&theme=dracula&cache_seconds=86400)
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Boutzi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 
