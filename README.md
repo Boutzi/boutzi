@@ -94,4 +94,4 @@ I'm Joe. I'm a developer looking for a job in web or software development! Check
 
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=Boutzi&color=orange)
+![Profile views](https://komarev.com/ghpvc/?username=Boutzi)
