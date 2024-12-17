@@ -60,6 +60,7 @@ I'm Joe. I'm a developer looking for a job in web or software development! Check
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white)
 
+
 #### I'm also interested in
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%232D82FF.svg?style=flat-square&logo=unrealengine&logoColor=white)
@@ -88,7 +89,7 @@ I'm Joe. I'm a developer looking for a job in web or software development! Check
 
 <div style="display: flex; justify-content: space-between;">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boutzi&show_icons=true&theme=dracula&cache_seconds=86400)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boutzi&show_icons=true&theme=dracula&cache_seconds=86200)
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Boutzi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 
