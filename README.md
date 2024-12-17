@@ -90,8 +90,7 @@ I'm Joe. I'm a developer looking for a job in web or software development! Check
 <div style="display: flex; justify-content: space-between;">
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Boutzi&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=react" width="445"/>&nbsp;
-  
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Boutzi&langs_count=8&include_all_commits=true&layout=compact&theme=react&hide_border=true&count_private=true&exclude_repo=oc-integrateur-web-p2,oc-integrateur-web-p3,oc-integrateur-web-p4,oc-integrateur-web-p5,oc-integrateur-web-p6,oc-integrateur-web-p7,oc-integrateur-web-p8,oc-integrateur-web-p9,oc-integrateur-web-p10" height="176">
 
 </div>
 
