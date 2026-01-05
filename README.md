@@ -1,6 +1,7 @@
 
 ### ```> Hello World!```
-I'm Joe. I'm a developer looking for a job in web or software development! Check out my [portfolio](https://joe.arkaans.com)! 
+
+<!-- I'm Joe. I'm a developer looking for a job in web or software development! Check out my [portfolio](https://joe.arkaans.com)! -->
 
 <div align="left">
   
