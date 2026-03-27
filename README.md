@@ -52,11 +52,12 @@
 
 #### I'm very interested in
 
-![Pandas](https://img.shields.io/badge/Pandas-%230A63C1.svg?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23D74F3E.svg?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%230A63C1.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23D74F3E.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23DA5B16.svg?style=flat-square&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234F54F1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23DA5B16.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234F54F1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23007A99.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -77,9 +78,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%230F75B3.svg?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23007A99.svg?style=flat-square&logo=matplotlib&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 
 #### My sworn enemy 
