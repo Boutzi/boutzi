@@ -1,60 +1,59 @@
 
 ### ```> Hello World!```
 
-<!-- I'm Joe. I'm a developer looking for a job in web or software development! Check out my [portfolio](https://joe.arkaans.com)! -->
+I'm Joe, a developer transitioning into data engineering, bringing a broad range of skills from UI to backend, databases, and data workflows. <!-- Check out my [portfolio](https://joe.arkaans.com)! -->
 
 <div align="left">
-  
-## Contributions
 
 </div>
 
-- [Arkaans Copilot](https://github.com/Arkaans/arkaans-copilot) is a Discord bot, designed to effortlessly manage and optimize temporary voice channels. Add it to your Discord by checking the [official page](https://copilot.arkaans.com/).
-- [Pomodoro App](https://github.com/Boutzi/pomodoro/) helps you to boost your productivity with a Pomodoro timer built for Windows.
-- [Code Lab FR](https://github.com/Boutzi/code-lab-fr) is a simple coding lab for French JavaScript and React students to improve their basic programming skills.
-
-<div align="left">
-  
-## Skills 
-
-</div>
+#
 
 #### Languages
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%234F54F1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) -->
+<!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)-->
 
-#### Framworks/libs
-
+#### Framworks/Libs
+###### Front-end
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+###### Back-end
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-%2344B0F1.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-#### Runtime
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
+###### Data & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-%230A63C1.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23D74F3E.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### DevOps & Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<!--
+#### Runtime
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 #### I'm very interested in
 
 ![Pandas](https://img.shields.io/badge/Pandas-%230A63C1.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23D74F3E.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23DA5B16.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%234F54F1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23007A99.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -80,11 +79,20 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=keras&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-
+ -->
 
 #### My sworn enemy 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
+<div align="left">
+  
+## Contributions
+
+</div>
+
+- [Arkaans Copilot](https://github.com/Arkaans/arkaans-copilot) is a Discord bot, designed to effortlessly manage and optimize temporary voice channels. Add it to your Discord by checking the [official page](https://copilot.arkaans.com/).
+- [Pomodoro App](https://github.com/Boutzi/pomodoro/) helps you to boost your productivity with a Pomodoro timer built for Windows.
+- [Code Lab FR](https://github.com/Boutzi/code-lab-fr) is a simple coding lab for French JavaScript and React students to improve their basic programming skills.
 
 ## 📈 GitHub Stats
 
