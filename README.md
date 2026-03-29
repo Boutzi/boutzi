@@ -3,9 +3,7 @@
 
 I'm Joe, a developer transitioning into data engineering.
 
-I've worn a few different hats over the years. Print production, graphic design, front-end, back-end.
-
-Across all of it, one thing kept pulling my attention: getting the right information, fast. Not searching for it. Having it structured, accessible, and ready. That obsession with centralising data and cutting the noise between a question and its answer is what led me here.  <!-- Check out my [portfolio](https://joe.arkaans.com)! -->
+I've worn a few different hats over the years professionally. Across all of it, one thing kept pulling my attention: getting the right information, fast. Not searching for it. Having it structured, accessible, and ready. That obsession with centralising data and cutting the noise between a question and its answer is what led me here.  <!-- Check out my [portfolio](https://joe.arkaans.com)! -->
 
 <div align="left">
 
