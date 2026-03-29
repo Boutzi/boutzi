@@ -1,7 +1,7 @@
 
 ### ```> Hello World!```
 
-I'm Joe, a developer transitioning into data engineering, bringing a broad range of skills from UI to backend, databases, and data workflows. <!-- Check out my [portfolio](https://joe.arkaans.com)! -->
+I'm Joe, a developer transitioning into data engineering. <!-- Check out my [portfolio](https://joe.arkaans.com)! -->
 
 <div align="left">
 
