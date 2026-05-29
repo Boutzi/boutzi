@@ -3,7 +3,8 @@
 
 I'm Joe, a developer transitioning into data engineering.
 
-I've worn a few different hats over the years professionally. Across all of it, one thing kept pulling my attention: getting the right information, fast. Not searching for it. Having it structured, accessible, and ready. That obsession with centralising data and cutting the noise between a question and its answer is what led me here.  <!-- Check out my [portfolio](https://joe.arkaans.com)! -->
+Multidisciplinary profile transitioning into Data Engineering and AI, with hands-on experience in Python and AWS.
+Passionate about performant applications and scalable architecture. Currently looking for a 12-month work-study contract as an AI / Data Engineer, as part of a Bachelor's degree at Ynov Campus Bordeaux, with the goal of pursuing a Master's in Data or AI. Check out my [portfolio](https://joe.arkaans.com).
 
 <div align="left">
 
