@@ -1,10 +1,11 @@
 
 ### ```> Hello World!```
 
-I'm Joe, a developer transitioning into data engineering.
+I approach Data the same way I approach complex problems: with method, curiosity, and the will to understand what's hiding behind the numbers.
 
-Multidisciplinary profile transitioning into Data Engineering and AI, with hands-on experience in Python and AWS.
-Passionate about performant applications and scalable architecture. Currently looking for a 12-month work-study contract as an AI / Data Engineer, as part of a Bachelor's degree at Ynov Campus Bordeaux, with the goal of pursuing a Master's in Data or AI. Check out my [portfolio](https://joe.arkaans.com).
+In 2024, after getting my software developer certification, I took the time to seriously analyze the job market and my own skills. Data engineering was the obvious choice.
+
+Check out my [portfolio](https://joe.arkaans.com).
 
 <div align="left">
 
